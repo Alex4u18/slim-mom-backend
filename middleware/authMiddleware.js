@@ -30,3 +30,4 @@ function authorizeRoles(...roles) {
 }
 
 module.exports = { validateAuth, authorizeRoles };
+
